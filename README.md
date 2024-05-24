@@ -17,5 +17,7 @@ Usei o Chat GPT e o Microsoft Copilot para ajudar na criação do enredo da hist
 ## 🚀 Resultados
 O e-book aprensenta uma história envolvente em que os personagens utilizam alguns códigos em PHP durante a trama. Os códigos foram reproduzidos no livro.
 
+[Link do E-book Mad Max: O Código do Deserto](https://github.com/nataldelima/lab-natty-or-not/blob/main/exemplos/Ebook%20PHP%20Mad%20Max.pdf)
+
 ## 💭 Reflexão (Opcional)
 Como se costuma dizer que o PHP está morrendo, criei essa obra com inteligência artificial para narrar a luta para preservar essa linguagem. Mas por outro lado, no contexto de inteligência artificial, será que ela poderia "matar" outras profissões, como de escritor, autor ou mesmo ilustrador? Uma dica para uma nova história.
