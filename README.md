@@ -1,4 +1,4 @@
-# "Mad Max: O Código do Deserto"
+# "PHP Mad Max: O Código do Deserto"
 ## Uma história de aventura PHós-aPocalíptica com PHP
 
 ## 📒 Descrição
